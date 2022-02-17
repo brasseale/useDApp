@@ -1,5 +1,5 @@
 {
-  "name": "usedapp",
+  "name": "usedapp-harmony",
   "private": true,
   "engines": {
     "node": ">=10",

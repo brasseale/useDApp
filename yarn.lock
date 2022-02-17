@@ -3768,6 +3768,17 @@
   resolved "https://registry.yarnpkg.com/@uniswap/token-lists/-/token-lists-1.0.0-beta.27.tgz#8b02a979b0b0024cc96f60e694a3f6db6b2ccab2"
   integrity sha512-x5hmIniQ9TGqOBCRqfWcmZi/U5kB0qrHMDQ9igs3nMbK0wwmYLraL4owbIwXFGR/co6/lJYJC4K/Gjn4wZY5mQ==
 
+"@usedapp/core@*", "@usedapp/core@^0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@usedapp/core/-/core-0.11.0.tgz#0df080d253468b421c6b712f1b0bbcc7bfec15e9"
+  integrity sha512-59M4FToZLdXLPf9R4eME7aOBHcwrqmf8+038Mq9Zcd3Ep+YvrN0vnIdNyzjAAJXXBa3bX139ueli0lKwrGYbUQ==
+  dependencies:
+    "@metamask/detect-provider" "^1.2.0"
+    "@uniswap/token-lists" "^1.0.0-beta.27"
+    ethers "5.5.1"
+    lodash.merge "^4.6.2"
+    nanoid "3.1.22"
+
 "@walletconnect/browser-utils@^1.7.1":
   version "1.7.1"
   resolved "https://registry.yarnpkg.com/@walletconnect/browser-utils/-/browser-utils-1.7.1.tgz#2a28846cd4d73166debbbf7d470e78ba25616f5e"
