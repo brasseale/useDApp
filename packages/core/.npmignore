@@ -1,4 +1,0 @@
-dist/**/test/
-test/
-dist/**/tsconfig.tsbuildinfo
-CHANGELOG.md
